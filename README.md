@@ -1,2 +1,2 @@
 # Asteroids
-My Asteroids Game 
+My Asteroids Game: Made by bradybeckner1 
